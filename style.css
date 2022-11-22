@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://i.imgur.com/NcDKU3D.jpg");
+    background-size: cover;
+    background-position: fixed;
+}
+header{
+    text-align: center;
+    background-color: rgba(111, 116, 117, 0.26);
+    border-radius: 30px;
+}
+h1{
+    color: antiquewhite;
+}
+ul{
+    padding: 20px;
+}
+a{
+    color: antiquewhite;
+}
+li{
+    display: inline-block;
+    padding: 0px 15px 0px 15px;
+    
+}
+article{
+    padding: 20px;
+    margin: 0px 50px 0px 70px;
+}
+img{
+    height: 100px;
+    border:2px solid rgb(10, 10, 10) ;
+    margin: 20px;
+    border-radius: 50%;
+}
+h2{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+ul{
+    background-color: rgba(250, 235, 215, 0.055);
+    border-radius: 50px;
+}
